@@ -1,0 +1,2 @@
+This is extended version of the Neural Matrix Factorization model where we use the weights and biases of the pretrained model, and compare it with training a model from scratch. We can visually see the accuracy 
+and time difference between the two approaches.
